@@ -1,0 +1,69 @@
+id_padres,nombre,apellido,ocupacion,domicilio,telefono
+1,'Sibby','Dusting','Farmaceutico','0666 Forest Dale Alley','511-663-8756'
+2,'Elset','Yegoshin','Ingeniero de Software','46982 Green Ridge Trail','262-936-9156'
+3,'Hugh','Wolters','Ingeniro','9 Bartelt Junction','167-389-1981'
+4,'Norma','Arnke','Auditor Interno','66597 Lien Road','238-919-0462'
+5,'Keir','Watts','Ni�era','94228 Ruskin Center','582-658-1042'
+6,'Aigneis','Pohlak','Programador IV','780 Hanover Junction','330-335-1002'
+7,'Avram','Valentinetti','Ingeniro Electrico','14 Magdeline Street','559-676-3783'
+8,'Latisha,Fetherby,Auditor,2 Armistice Parkway,805-837-6574
+9,'Tessie','Raymen', 'Administrador de sistemas III','9867 Luster Drive','984-501-5313'
+10,'Tobey','Rubra','Cocinero','70 Eagle Crest Avenue','936-723-0919'
+d12,'Sid','Roggers','Contador','696 Bartelt Parkway','908-501-6631'
+13,'Sandye','Colliss','Consultor','9727 Schlimgen Way','498-612-3026'
+14,'Yorgo','Filby','Secretaria','8525 Jana Road','914-841-5337'
+15,'Israel,Rizziello,Medico,22 Haas Lane,166-833-5031
+16,'Herb,Botton,Project Manager,4882 Arizona Lane,430-886-7723
+17,'Adaline,Idale,Asistente,72 Tennessee Road,382-516-5161
+18,'Arda,Rush, Profesor,2436 Lakewood Gardens Terrace,179-146-6413
+19,'Geoffry,Aronsohn,Agente Inmobiliario,5 Old Shore Road,579-978-6819
+20,'Ellissa,Dudding,Ama de Casa,21749 Spenser Street,649-195-2965
+21,'Doralynn,Clew,Vendedor,954 Scott Place,611-573-6759
+22,'Shoshana,Grima, Gerente de Banco,29779 Debra Alley,192-715-1799
+23,'Allx,Ciciari,Superheroe,9629 Express Street,298-720-9755
+24,'Aundrea,Lidgerton,Operador,47634 Cherokee Center,726-462-1617
+25,'Ashien,Champerlen,Cient�fico,10 Sachs Road,939-581-2964
+26,'Alasteir,Digby,Villano,03 Hudson Plaza,349-315-3858
+27,'Chandler,Morcomb,Auditor,153 Kings Crossing,657-659-7093
+28,'Augustina,Magnus,RRHH,0806 Division Junction,941-105-5183
+29,'Jobie,Ivanin,Mecanico,7 Coolidge Road,494-855-1181
+30,'Janean,Lowth,Desarrollador,1 Rusk Pass,404-265-0642
+31,'August,Najafian,Ingeniero Nuclear,3 Russell Plaza,527-821-2801
+32,'Billie,Beert,Asistente,27 Del Mar Circle,548-557-6421
+33,'Konstance,Schoolcroft,Contador,61 Bartillon Circle,563-731-4971
+34,'Hali,Esterbrook,Entrenador II,249 5th Circle,188-560-2293
+35,'Dorrie,Worvill,Profesor,4 Forest Pass,732-191-4880
+36,'Halie,Lorie,contador,0837 Memorial Plaza,226-932-9051
+37,'Blithe,Smalcombe, Peluquero,0 Welch Circle,573-649-7914
+38,'Kimmi,Davsley,Empresario,92015 Donald Alley,945-715-4042
+39,'Freeman,Dessant,Modisto,8702 Sheridan Center,938-344-1630
+40,'Slade,Spavins,Graphic Tester,8 Coolidge Lane,839-999-3473
+41,'Wilhelmina,Benford,Bachero,0 Stone Corner Way,493-605-2663
+42,'Ricardo,Winear, Vendedor,536 Di Loreto Court,415-673-1401
+43,'Calvin,Duignan, Ejecutivo,76 Nobel Place,778-716-0481
+44,'Amil,Lapham,Ejecutivo,1 Charing Cross Point,603-524-2091
+45,'Tobey,Davidowich, Vendedor,37869 Lindbergh Circle,181-394-4743
+46,'Jaime,Burmaster,Vendedor,6633 Sauthoff Parkway,879-177-8192
+47,'Elvin,Paroni,Vendedor,82182 Waywood Avenue,340-644-0955
+48,'Nikaniki,O'Scannill,Gerente,811 Kim Place,308-191-9580
+49,'Garey,Shepton,Arquitecto,30224 Farmco Place,617-203-1853
+50,'Daniel,Pembridge,Abogado,4 Mayfield Park,622-831-2942
+51,'Darnell,Conen, Abogado,657 Laurel Court,390-461-3255
+52,'Eamon,Viste,Asistente,06 Monterey Street,152-643-8728
+53,'Boy,Simnel,Ama de Casa,19107 Graedel Road,626-467-9614
+54,'Marne,Sadry,Enfermera,1 Red Cloud Junction,231-454-3524
+55,'Eudora,Hurdis,Analista Financiero,6 Mandrake Hill,988-709-7871
+56,'Taber,Shewon,Somelier,752 Esch Pass,872-406-7841
+57,'Jonell,Wickes,Abogado,54 Golden Leaf Avenue,114-845-5427
+58,'Faina,Grim,Mecanico,787 Monument Point,295-423-4972
+59,'Miriam,O' Ronan,Profesor,49 Eliot Terrace,142-367-3863
+60,'Birgitta,Robertazzi,Editor,2408 Stang Trail,757-845-3099
+61,'Daisey,Glazer,Empleado,1405 Pine View Pass,541-683-2065
+62,'Kenyon,Annesley,Secretario,27 Sugar Road,263-454-3322
+63,'Phillipe,Joynson,Geologo,505 Maple Wood Avenue,944-213-9934
+64,'Ailis,Fildes,Tarotista,41811 Mifflin Pass,543-698-4451
+65,'Brockie,Rudall,Operador,5 Ridgeview Pass,973-301-8614
+66,'Quintin,Poad,Odontologo,5042 Fremont Crossing,275-767-0617
+67,'Peria,Constantine,Medico,93075 Grasskamp Plaza,543-137-6370
+68,'Ferdinanda','Samuel','Locutor','2 Reinke Trail','538-155-8497'
+69,'Britta','Jovic','Bombero','287 Trailsway Court','523-376-9459'
